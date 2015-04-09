@@ -53,6 +53,17 @@ the latest web technologies. Its goal is to provide elegant, concise constructio
 graphics in the style of Protovis/D3, while delivering high-performance interactivity over
 large data to thin clients.
 
+`Plotly <https://plot.ly/python/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Plotly’s Python API <https://plot.ly/python/>`__ enables interactive, scientific figures, 
+and web shareability. 2D, 3D, and live-streaming graphs are rendered with WebGL and `D3.js <http://d3js.org/>`__. 
+The library supports plotting directly from pandas DataFrames and cloud-based collaboration. 
+Users of `matplotlib, ggplot for Python, and Seaborn <https://plot.ly/python/matplotlib-to-plotly-tutorial/>`__  
+can convert figures into interactive web-based plots. Plots can be drawn in 
+`IPython Notebooks <https://plot.ly/ipython-notebooks/>`__ , edited with R or MATLAB, modified in a GUI, 
+or embedded in apps and dashboards.
+
 `yhat/ggplot <https://github.com/yhat/ggplot>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
